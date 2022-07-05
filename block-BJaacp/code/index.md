@@ -25,7 +25,7 @@ Answer the following with reason after going through the above code:
 
 <!-- To add this image here use ![name](./hello.jpg) -->
 
-[pic2](./photo1657044754.jpeg)
+[pic2](./photo1657045593.jpeg)
 
 ```js
 function personDetails(person) {
@@ -36,7 +36,7 @@ function personDetails(person) {
 var person1 = { name: "Alex", age: 30 };
 var person2 = personDetails(person1);
 console.log(person1); //{ name: "Alex", age: 30 } since person 1 is defined as this property.
-console.log(person2); //{ name: "John", age: 50 } since person2 is a function with parameter as person1 and the function updates the value of person1(inside function only) as { name: "John", age: 50 } so person 2 is { name: "John", age: 50 }.
+console.log(person2); //{ name: "John", age: 50 } since person2 is a function with parameter as person1 and the function updates the value of person1  (inside function only) as { name: "John", age: 50 } so person 2 is { name: "John", age: 50 }.
 ```
 
 3. What will be the output of the below code:
