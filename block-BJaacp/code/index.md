@@ -25,7 +25,7 @@ Answer the following with reason after going through the above code:
 
 <!-- To add this image here use ![name](./hello.jpg) -->
 
-[pic2](./photo1657044754.jpeg)
+[pic2](./photo1657045593.jpeg)
 
 ```js
 function personDetails(person) {
